@@ -87,6 +87,3 @@ public class GestorPersonajes {
         return false;
     }
 }
-
-    
-}
